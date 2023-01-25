@@ -27,7 +27,11 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.11.17 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.16.13 // indirect
 	github.com/aws/smithy-go v1.12.1 // indirect
+	github.com/creasty/defaults v1.6.0 // indirect
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 // indirect
+	github.com/google/uuid v1.3.0 // indirect
+	github.com/imagekit-developer/imagekit-go v0.0.0-20221027035115-2e643255882a // indirect
 	golang.org/x/image v0.0.0-20220617043117-41969df76e82 // indirect
 	golang.org/x/net v0.0.0-20211029224645-99673261e6eb // indirect
+	gopkg.in/validator.v2 v2.0.1 // indirect
 )
